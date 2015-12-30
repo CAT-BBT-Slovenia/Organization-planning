@@ -90,5 +90,5 @@ fokusirati da bo vse v tem delu optimatizirano. Vsaka veja skrbi za svoje pod ve
 2. <b>Osnovno</b>:
 To okolje mora biti privlacno za zunanjega opazovalca. Mora biti enostavno, zabavno, in bres vezave. To okolje mora dajati v vednost kateri cvetovi so pripravljeni na veji za oploditev. Mora pa seveda v zameno za oploditev nektar s katerim bo cebela se dolgo casa srecna in vesela tako da bo hotela priti po se eno rundo jutri.
 
-  5. Orodja:
-   * DEFINIRAJ...
+3. Orodja:
+  * DEFINIRAJ...
